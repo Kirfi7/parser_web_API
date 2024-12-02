@@ -36,8 +36,8 @@ def parse_products_from_cur_page(html):
 
     for card in product_cards:
         # Извлекаем название и бренд
-        brand = card.select_one(".ProductCard_productCard__brandName__OmZye").get_text(strip=True) if card.select_one(
-            ".ProductCard_productCard__brandName__OmZye") else "Бренд не найден"
+        brand = card.select_one(".ProductCard_productCard__brandBlock__kLVj_").get_text(strip=True) if card.select_one(
+            ".ProductCard_productCard__brandBlock__kLVj_") else "Бренд не найден"
         title = card.select_one(".ProductCard_productCard__title__cjmjE").get_text(strip=True) if card.select_one(
             ".ProductCard_productCard__title__cjmjE") else "Название не найдено"
 
@@ -97,7 +97,7 @@ def get_all_products():
 
 
 # Запуск парсера
-products, pydantic_products = get_all_products()
+# products, pydantic_products = get_all_products()
 
 # Вывод собранных данных
 # for product in products:

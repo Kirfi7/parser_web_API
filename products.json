@@ -56,13 +56,13 @@
     },
     {
         "brand": "SENSO",
-        "name": "Подгузники Sensitive, 5 (XL)",
-        "price": 660
+        "name": "Подгузники Simple, 5 (XL)",
+        "price": 530
     },
     {
         "brand": "SENSO",
-        "name": "Подгузники Simple, 5 (XL)",
-        "price": 530
+        "name": "Подгузники Sensitive, 5 (XL)",
+        "price": 660
     },
     {
         "brand": "SENSO",
@@ -83,11 +83,6 @@
         "brand": "JANE",
         "name": "Коляска Newel + люлька Micro Pro Sand",
         "price": 46130
-    },
-    {
-        "brand": "JANE",
-        "name": "Автокресло iKonic R I-Size",
-        "price": 33530
     },
     {
         "brand": "JANE",
@@ -171,6 +166,11 @@
     },
     {
         "brand": "HELEN HARPER",
+        "name": "Впитывающие пеленки Soft&Dry 60х60 см, 30 шт",
+        "price": 730
+    },
+    {
+        "brand": "HELEN HARPER",
         "name": "Подгузники Soft & Dry, 6 (XL)",
         "price": 1080
     },
@@ -181,18 +181,13 @@
     },
     {
         "brand": "HELEN HARPER",
-        "name": "Впитывающие пеленки Soft&Dry 60х60 см, 30 шт",
-        "price": 730
+        "name": "Подгузники, 4 (Maxi)",
+        "price": 1630
     },
     {
         "brand": "HELEN HARPER",
         "name": "Впитывающие пеленки 60х90 см, 10 шт",
         "price": 400
-    },
-    {
-        "brand": "HELEN HARPER",
-        "name": "Подгузники, 4 (Maxi)",
-        "price": 1630
     },
     {
         "brand": "JANE",
@@ -215,14 +210,19 @@
         "price": 490
     },
     {
+        "brand": "JANE",
+        "name": "Коляска прогулочная Rocket 2",
+        "price": 14980
+    },
+    {
         "brand": "HELEN HARPER",
         "name": "Подгузники, 3 (Midi)",
         "price": 1630
     },
     {
         "brand": "JANE",
-        "name": "Коляска прогулочная Rocket 2",
-        "price": 14980
+        "name": "Коляска прогулочная Rocket Sport",
+        "price": 19530
     },
     {
         "brand": "HELEN HARPER",
@@ -236,13 +236,13 @@
     },
     {
         "brand": "HELEN HARPER",
-        "name": "Трусики-подгузники, 4 (maxi)",
-        "price": 1380
+        "name": "Трусики-подгузники, 6 (XL)",
+        "price": 780
     },
     {
         "brand": "HELEN HARPER",
-        "name": "Трусики-подгузники, 6 (XL)",
-        "price": 780
+        "name": "Трусики-подгузники, 4 (maxi)",
+        "price": 1380
     },
     {
         "brand": "HELEN HARPER",
@@ -253,11 +253,6 @@
         "brand": "HELEN HARPER",
         "name": "Трусики-подгузники Soft&Dry, 4 (Maxi)",
         "price": 1410
-    },
-    {
-        "brand": "JANE",
-        "name": "Коляска прогулочная Rocket Sport",
-        "price": 19530
     },
     {
         "brand": "HELEN HARPER",
@@ -311,6 +306,11 @@
     },
     {
         "brand": "HELEN HARPER",
+        "name": "Трусики-подгузники Soft & Dry, 5 (Junior)",
+        "price": 530
+    },
+    {
+        "brand": "HELEN HARPER",
         "name": "Трусики-подгузники Soft&Dry, 5 (Junior)",
         "price": 1410
     },
@@ -318,11 +318,6 @@
         "brand": "HELEN HARPER",
         "name": "Подгузники, 5 (Junior)",
         "price": 1630
-    },
-    {
-        "brand": "HELEN HARPER",
-        "name": "Трусики-подгузники Soft & Dry, 5 (Junior)",
-        "price": 530
     },
     {
         "brand": "HELEN HARPER",
