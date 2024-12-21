@@ -85,6 +85,11 @@
         "price": 46130
     },
     {
+        "brand": "HELEN HARPER",
+        "name": "Впитывающие пеленки Soft&Dry 40х60, 5 шт",
+        "price": 100
+    },
+    {
         "brand": "JANE",
         "name": "Коляска Crosslight + люлька Micro Pro",
         "price": 51030
@@ -171,6 +176,11 @@
     },
     {
         "brand": "HELEN HARPER",
+        "name": "Подгузники, 4 (Maxi)",
+        "price": 1630
+    },
+    {
+        "brand": "HELEN HARPER",
         "name": "Подгузники Soft & Dry, 6 (XL)",
         "price": 1080
     },
@@ -181,11 +191,6 @@
     },
     {
         "brand": "HELEN HARPER",
-        "name": "Подгузники, 4 (Maxi)",
-        "price": 1630
-    },
-    {
-        "brand": "HELEN HARPER",
         "name": "Впитывающие пеленки 60х90 см, 10 шт",
         "price": 400
     },
@@ -193,6 +198,11 @@
         "brand": "JANE",
         "name": "Автокресло Transformer IPlus",
         "price": 22870
+    },
+    {
+        "brand": "JANE",
+        "name": "Коляска прогулочная Rocket 2",
+        "price": 14980
     },
     {
         "brand": "HELEN HARPER",
@@ -211,8 +221,8 @@
     },
     {
         "brand": "JANE",
-        "name": "Коляска прогулочная Rocket 2",
-        "price": 14980
+        "name": "Коляска прогулочная Rocket Sport",
+        "price": 19530
     },
     {
         "brand": "HELEN HARPER",
@@ -221,18 +231,13 @@
     },
     {
         "brand": "JANE",
-        "name": "Коляска прогулочная Rocket Sport",
-        "price": 19530
+        "name": "Коляска прогулочная Newel Sand",
+        "price": 34930
     },
     {
         "brand": "HELEN HARPER",
         "name": "Трусики-подгузники, 6 (XL)",
         "price": 2710
-    },
-    {
-        "brand": "JANE",
-        "name": "Коляска прогулочная Newel Sand",
-        "price": 34930
     },
     {
         "brand": "HELEN HARPER",
@@ -243,11 +248,6 @@
         "brand": "HELEN HARPER",
         "name": "Трусики-подгузники, 4 (maxi)",
         "price": 1380
-    },
-    {
-        "brand": "HELEN HARPER",
-        "name": "Впитывающие пеленки Soft&Dry 40х60, 5 шт",
-        "price": 100
     },
     {
         "brand": "HELEN HARPER",
@@ -280,14 +280,14 @@
         "price": 1780
     },
     {
-        "brand": "HELEN HARPER",
-        "name": "Трусики-подгузники Soft & Dry, 4 (Maxi)",
-        "price": 530
-    },
-    {
         "brand": "JANE",
         "name": "Коляска прогулочная Newel Dim Grey",
         "price": 34930
+    },
+    {
+        "brand": "HELEN HARPER",
+        "name": "Трусики-подгузники Soft & Dry, 4 (Maxi)",
+        "price": 530
     },
     {
         "brand": "HELEN HARPER",
